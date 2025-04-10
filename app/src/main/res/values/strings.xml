@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RayOpenGL</string>
+    <string name="net_exception">网络异常，请稍后重试</string>
+    <string name="data_exception">数据异常，请稍后重试</string>
+</resources>
